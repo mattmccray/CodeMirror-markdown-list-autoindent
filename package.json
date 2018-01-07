@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/joel-porquet/CodeMirror-markdown-list-autoindent/issues"
   },
-  "dependencies": {
+  "peerDependencies": {
     "codemirror": "^5.x"
   }
 }
